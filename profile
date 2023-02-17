@@ -1,4 +1,4 @@
 {
   "name": "Assel",
-  "avatar": "https://github.com/Asya2810"
+  "avatar": "https://avatars.githubusercontent.com/u/118177334?s=48&v=4"
 }
